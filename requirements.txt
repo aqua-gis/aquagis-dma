@@ -1,0 +1,12 @@
+shapely
+pandas
+sqlalchemy
+flask
+pyproj
+numpy
+
+Flask==2.0.1
+Flask-SQLAlchemy==2.5.1
+SQLAlchemy==1.4.20
+Shapely==1.7.1
+pyproj==3.1.0
